@@ -1,0 +1,36 @@
+@import "~bootstrap/scss/bootstrap";
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.info input {
+  width: 35%;
+  height: 50px;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.btn button {
+  margin-right: 5px;
+}
+
+.employees {
+  text-align: center;
+}
+
+.employee {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px 0;
+}

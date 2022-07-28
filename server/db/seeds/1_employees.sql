@@ -1,0 +1,1 @@
+INSERT INTO employees (name, age, country, position, wage) VALUES ('Joe', 30, 'Canada', 'Senior', 75000);
